@@ -11,4 +11,4 @@ In these website you have to choose the two matching card. If both of your selec
 - `React confetti`
 
 # Live demo 🎥
-https://card-match-game-hritik-sharma.vercel.app/
+https://magic-card-game-fi6fnv7mb-tusharthakre20s-projects.vercel.app
